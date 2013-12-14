@@ -1,5 +1,5 @@
 {
-  "name": "AndroLuaServer",
+  "name": "RuleOneServer",
   "version": "0.1.0",
   "description": "",
   "keywords": [
@@ -26,10 +26,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/yuvipanda/AndroLua"
+    "url": "http://github.com/yuvipanda/rule-one-server"
   },
   "readme": "",
   "bugs": {
-    "url": "https://github.com/yuvipanda/AndroLua/issues"
+    "url": "https://github.com/yuvipanda/rule-one-server/issues"
   }
 }
